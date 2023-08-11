@@ -96,6 +96,6 @@ background-position: right center;
 }
 
 .g-signin2{
-    position: fixed;
+    position: relative;
     padding:0 0 75px 80px;
 }
