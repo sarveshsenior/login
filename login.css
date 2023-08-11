@@ -96,5 +96,7 @@ background-position: right center;
 }
 .g-signin2{
 	position:absolute;
+	top:80%;
+	left:50%;
 }
 
